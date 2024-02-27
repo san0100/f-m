@@ -46,6 +46,7 @@ const htmlLinkMessage = {
     speaker: 'magic'
 };
 
+messages.push(htmlLinkMessage);
 
 let index = 0;
 
