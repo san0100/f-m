@@ -41,11 +41,11 @@ const messages = [
     { text: "Ben and John, your dedication to discovering and advocating for exceptional talent is truly commendable. As we welcome Mr. Sanil to the class of 2028, we embrace the belief in the magic of unique opportunities. Together, let's embark on a journey of limitless possibilities.", speaker: "dean" },
 ];
 
-
-
 const htmlLinkMessage = {
-    text: 'Also, before you disappear into the mundane, check out this short clip of magic <a href="ending.html" id="ending.html">here</a>. Only takes a moment!',speaker: 'magic'
+    text: 'Also, before you disappear into the mundane, check out this short clip of magic <a href="ending.html" id="ending.html">here</a>. Only takes a moment!',
+    speaker: 'magic'
 };
+
 
 let index = 0;
 
