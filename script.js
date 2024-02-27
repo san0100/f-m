@@ -30,7 +30,7 @@ const messages = [
 
     { text: "Dear VP for Enrollment, at Franklin and Marshall, we unearth dreams from forgotten pages, turning ordinary narratives into bestselling tales. This unique essence drew Mr. Sanil to choose Franklin and Marshall as his first choice, amidst over 5000 magical schools.", speaker: "benandjohn" },
 
-    { text: "Despite teaching himself many things, he has encountered numerous challenges, with a significant one being a lack of resources and guidance on diverse topics. This is precisely why Sanil wants to be a part of our community. At Franklin and Marshall, we strive to be the shelter for those struggling in the rain. It is the beauty that defines Cornell, and we should give shelter to individuals like Mr. Sanil.", speaker: "benandjohn" },
+    { text: "Despite teaching himself many things, he has encountered numerous challenges, with a significant one being a lack of resources and guidance on diverse topics. This is precisely why Sanil wants to be a part of our community. At Franklin and Marshall, we strive to be the shelter for those struggling in the rain. It is the beauty that defines f&m, and we should give shelter to individuals like Mr. Sanil.", speaker: "benandjohn" },
 
     { text: "You are right Ben and John. Let me discuss this with the Headmaster (President), and I will let you know what he thinks.", speaker: "dean" },
 
